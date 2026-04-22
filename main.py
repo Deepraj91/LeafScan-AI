@@ -105,7 +105,7 @@ ul a:hover { color:#1a1208; }
   </ul>
   <div class="right">
     <button class="cta" onclick="goUpload()">Scan a Leaf →</button>
-    <a href="https://github.com/Deepraj91/leaf-diseases-detect" target="_blank" class="gh" title="GitHub">
+    <a href="https://github.com/Deepraj91/LeafScan-AI" target="_blank" class="gh" title="GitHub">
       <!-- GitHub Invertocat — fill hardcoded to green -->
       <svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
         <path fill="#4a6741" d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.21 11.39.6.11.82-.26.82-.58
@@ -760,7 +760,7 @@ st.markdown("""
       color:rgba(212,232,204,0.7);margin-bottom:8px;">LeafScan AI</div>
     <div style="margin-bottom:10px;">Plant Pathology Intelligence</div>
     <div>Built with care ·
-      <a href="https://github.com/Deepraj91/leaf-diseases-detect" target="_blank"
+      <a href="https://github.com/Deepraj91/LeafScan-AI" target="_blank"
          style="color:#a8c49a;text-decoration:none;">View on GitHub</a>
     </div>
   </div>
