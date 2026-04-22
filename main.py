@@ -98,13 +98,9 @@ ul a:hover { color:#1a1208; }
 <body>
 <nav>
   <div class="logo" onclick="goHome()"><div class="logo-mark">🌿</div>LeafScan</div>
-  <ul>
-    <li><a onclick="goHome()"   href="#">Home</a></li>
-    <li><a onclick="goHow()"    href="#">How It Works</a></li>
-    <li><a onclick="goUpload()" href="#">Upload</a></li>
-  </ul>
+
   <div class="right">
-    <button class="cta" onclick="goUpload()">Scan a Leaf →</button>
+  
     <a href="https://github.com/Deepraj91/LeafScan-AI" target="_blank" class="gh" title="GitHub">
       <!-- GitHub Invertocat — fill hardcoded to green -->
       <svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
