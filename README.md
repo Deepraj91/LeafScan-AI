@@ -8,10 +8,6 @@
 
 An enterprise-grade AI-powered leaf disease detection system featuring a dual-interface architecture: a FastAPI backend service and an interactive Streamlit web application. Built with Meta's Llama Vision models via Groq API, this system provides accurate disease identification, severity assessment, and actionable treatment recommendations for agricultural and horticultural applications.
 
-## System Demo
-
-![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
-
 *Experience the power of AI-driven plant health analysis in action*
 
 ## 🎯 Key Features
@@ -62,7 +58,7 @@ The **DiseaseAnalysisResult DataClass** serves as a structured container for dis
 
 ### 1. Repository Setup
 **Clone the repository:**
-- Run: git clone https://github.com/shukur-alom/leaf-diseases-detect.git
+- Run: git clone https://github.com/Deepraj91/LeafScan-AI
 - Navigate to: cd leaf-diseases-detect/Front
 
 **Create and activate virtual environment (recommended):**
@@ -356,8 +352,6 @@ The analyze_leaf_image_base64 method follows these steps:
 ## 🤝 Contributing & Development
 
 ### Development Setup
-**Fork and clone the repository:**
-- Commands: git clone https://github.com/your-username/leaf-diseases-detect.git, cd leaf-diseases-detect/Front
 
 **Create development environment:**
 - Commands: python -m venv dev-env, .\dev-env\Scripts\Activate.ps1
@@ -482,8 +476,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ![Plant Health](https://img.shields.io/badge/Plant%20Health-AI%20Powered-brightgreen?style=for-the-badge&logo=leaf)
 ![Precision Agriculture](https://img.shields.io/badge/Precision%20Agriculture-Innovation-orange?style=for-the-badge&logo=agriculture)
-
-[🚀 **Live Demo**](https://leaf-diseases-detect5.streamlit.app) • [🐛 **Report Issues**](https://github.com/shukur-alom/leaf-diseases-detect/issues) • [💡 **Request Features**](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
 
 **Star ⭐ this repository if it helped you protect your plants!**
 
